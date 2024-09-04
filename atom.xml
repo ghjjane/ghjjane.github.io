@@ -6,7 +6,7 @@
   <link href="https://ghjjane.github.io/atom.xml" rel="self"/>
   
   <link href="https://ghjjane.github.io/"/>
-  <updated>2024-09-04T01:33:24.339Z</updated>
+  <updated>2024-09-04T01:40:19.345Z</updated>
   <id>https://ghjjane.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ghjjane.github.io/2024/09/02/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/"/>
     <id>https://ghjjane.github.io/2024/09/02/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</id>
     <published>2024-09-02T08:00:19.000Z</published>
-    <updated>2024-09-04T01:33:24.339Z</updated>
+    <updated>2024-09-04T01:40:19.345Z</updated>
     
     <content type="html"><![CDATA[<p>1、Hexo在使用hexo-theme-matery主题第一次提交到github的时候，使用命令：</p><blockquote><p>hexo d</p></blockquote><p>终端报错，信息如下</p><blockquote><p>error: GH013: Repository rule violations found for refs&#x2F;heads&#x2F;master.</p></blockquote><img src="/2024/09/02/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/WX20240903-124155@2x.png" class title="终端报错信息"><p><a href="https://blog.51cto.com/u_12763213/10979913">在网上找到了答案解决办法，使用第三种方案</a></p>]]></content>
     
