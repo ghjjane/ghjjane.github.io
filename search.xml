@@ -5,10 +5,10 @@
     
     <entry>
       <title></title>
-      <link href="/2024/09/03/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/"/>
-      <url>/2024/09/03/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</url>
+      <link href="/2024/09/03/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/"/>
+      <url>/2024/09/03/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</url>
       
-        <content type="html"><![CDATA[<p>1、Hexo在使用hexo-theme-matery主题第一次提交到github的时候，使用命令：</p><blockquote><p>hexo d</p></blockquote><p>终端报错，信息如下</p><blockquote><p>error: GH013: Repository rule violations found for refs&#x2F;heads&#x2F;master.</p></blockquote><p><img src="/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.resources/WX20240903-124155@2x.png" alt="f678715eea87bd716175971bd34d7945"></p><p><a href="https://blog.51cto.com/u_12763213/10979913">在网上找到了答案解决办法，使用第三种方案</a></p>]]></content>
+        <content type="html"><![CDATA[<p>1、Hexo在使用hexo-theme-matery主题第一次提交到github的时候，使用命令：</p><blockquote><p>hexo d</p></blockquote><p>终端报错，信息如下</p><blockquote><p>error: GH013: Repository rule violations found for refs&#x2F;heads&#x2F;master.</p></blockquote><p><a href="https://blog.51cto.com/u_12763213/10979913">在网上找到了答案解决办法，使用第三种方案</a></p>]]></content>
       
       
       
