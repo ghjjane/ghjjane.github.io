@@ -1,6 +1,8 @@
+https://ghjjane.github.io/2024/09/05/Flutter_Intl/
 https://ghjjane.github.io/2024/09/02/Hexo%E4%BD%BF%E7%94%A8%E4%B8%BB%E9%A2%98hexo-theme-matery%E6%8F%90%E4%BA%A4%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/
 https://ghjjane.github.io/about/index.html
 https://ghjjane.github.io/tags/index.html
 https://ghjjane.github.io/categories/index.html
 https://ghjjane.github.io/
 https://ghjjane.github.io/tags/hexo-hexo-theme-matery/
+https://ghjjane.github.io/tags/Flutter-Intl/
